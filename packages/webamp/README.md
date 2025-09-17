@@ -1,4 +1,5 @@
-# Webamp NPM Module
+# Webmap 
+NPM Module
 
 ## Development
 
